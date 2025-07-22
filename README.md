@@ -1,3 +1,5 @@
+# Healthcare Dataset Analysis in SQL
+
 ## 📌 Project Overview
 The **Healthcare Dataset Analysis in SQL** project is designed to demonstrate real-world SQL query writing and database management using healthcare-related data. This repository focuses on **patients, appointments, billing, prescriptions, and doctors** to analyze and retrieve useful insights about hospital operations.
 
