@@ -20,7 +20,7 @@ The project includes SQL queries to:
 # List all appointments with billing status
 ![Healthcare Dataset Screenshot 3](https://github.com/Jayesh-dev-glitch/Healthcare-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20124951.png)
 
-# Screenshot 4
+# Find the most common reasons for appointments
 ![Healthcare Dataset Screenshot 4](https://github.com/Jayesh-dev-glitch/Healthcare-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20125013.png)
 
 
