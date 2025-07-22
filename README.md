@@ -14,7 +14,7 @@ The project includes SQL queries to:
 # Retrieve all information from Table
 ![Healthcare Dataset Screenshot](https://github.com/Jayesh-dev-glitch/Healthcare-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20124909.png)
 
-# Screenshot 2
+# Get all appointments for a specific patient 
 ![Healthcare Dataset Screenshot 2](https://github.com/Jayesh-dev-glitch/Healthcare-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20124925.png)
 
 # Screenshot 3
