@@ -17,7 +17,7 @@ The project includes SQL queries to:
 # Get all appointments for a specific patient 
 ![Healthcare Dataset Screenshot 2](https://github.com/Jayesh-dev-glitch/Healthcare-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20124925.png)
 
-# Screenshot 3
+# List all appointments with billing status
 ![Healthcare Dataset Screenshot 3](https://github.com/Jayesh-dev-glitch/Healthcare-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20124951.png)
 
 # Screenshot 4
