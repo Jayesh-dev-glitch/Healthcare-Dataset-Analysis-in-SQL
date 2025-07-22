@@ -17,6 +17,9 @@ The project includes SQL queries to:
 # Screenshot 2
 ![Healthcare Dataset Screenshot 2](https://github.com/Jayesh-dev-glitch/Healthcare-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20124925.png)
 
+# Screenshot 3
+![Healthcare Dataset Screenshot 3](https://github.com/Jayesh-dev-glitch/Healthcare-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20124951.png)
+
 
 ## ⚙️ Database Schema
 
